@@ -44,3 +44,8 @@ srcset="https://raw.githubusercontent.com/bushravision/bushravision/output/githu
 src="https://raw.githubusercontent.com/bushravision/bushravision/output/github-contribution-grid-snake.svg"> 
 </picture>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bushravision/bushravision/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
